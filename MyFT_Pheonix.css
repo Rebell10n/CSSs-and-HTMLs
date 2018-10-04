@@ -2,4 +2,6 @@
 	font-family: 'Pheonix';
 	font-style: normal;
 	src:url(https://github.com/Rebell10n/CSSs-and-HTMLs/blob/fonts/PhoenixOne.ttf) format('truetype');
+	src:url(https://github.com/Rebell10n/CSSs-and-HTMLs/blob/fonts/PhoenixOne.woff) format('woff');
+	src:url(https://github.com/Rebell10n/CSSs-and-HTMLs/blob/fonts/PhoenixOne.woff2) format('woff2');
 }
