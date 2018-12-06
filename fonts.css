@@ -1,12 +1,9 @@
-@font-face
-{
-  font-family:RebelScene;
-  src:url(/REBEL_SCENE_DEMO.ttf) format(truetype);
+@font-face{
+  font-family:"RebelScene";
+  src: url(REBEL_SCENE_DEMO.ttf) format(truetype);
 }
 
-
-@font-face
-{
-  font-family:MenthaRp;
-  src:url(/Mentha Rapture.ttf) format(truetype);
+@font-face{
+  font-family:"MenthaRp";
+  src: url(Mentha Rapture.ttf) format(truetype);
 }
